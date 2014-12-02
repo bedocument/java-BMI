@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="advice_light">妳太輕</string>
+    <string name="advice_average">妳體重正常</string>
+    <string name="advice_heavy">妳超重</string>
+    <string name="about_title">關於 Android BMI</string>
+    <string name="about_msg">Android BMI Calc</string>
+    <string name="input_error">打錯了嗎只能輸入數字喔</string>
+    <string name="BMI">BMI計算器</string>
+    <string name="ok_label">確認</string>
+    <string name="homepage_label">首頁</string>
+    <string name="homepage_uri">http://sites.google.com/site/gasodroid</string>
+    <string name="report_back">前一頁</string>
+    <string name="bmi_result">你的BMI值是</string>
+
+</resources>
